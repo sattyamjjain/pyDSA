@@ -14,7 +14,7 @@ setup(
     description="Python Package for Data structure and algorithms implementation with its proper explanation",
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url="https://github.com/sattyamjjain/pyAGI",
+    url="https://github.com/sattyamjjain/pyDSA",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
@@ -26,7 +26,7 @@ setup(
     python_requires=">=3.9",
     install_requires=requirements,
     project_urls={
-        "Bug Reports": "https://github.com/sattyamjjain/pyAGI",
-        "Source": "https://github.com/sattyamjjain/pyAGI",
+        "Bug Reports": "https://github.com/sattyamjjain/pyDSA",
+        "Source": "https://github.com/sattyamjjain/pyDSA",
     },
 )
